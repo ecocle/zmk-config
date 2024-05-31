@@ -18,9 +18,9 @@
 #
 ---
 include:
-  - board: nrf52840_m2
+  - board: nrfmicro_13
     shield: corne_left
-  - board: nrf52840_m2
+  - board: nrfmicro_13
     shield: corne_right
   - board: nrfmicro_13
     shield: settings_reset
